@@ -3,7 +3,7 @@
 
 >[**Used Integrations**](https://github.com/inotia00/revanced-patches)<br>
 >[**Used Patches**](https://github.com/inotia00/revanced-integrations)<br>
-<br>
+
 
 >**Credits**<br>
 > inotia00<br>
